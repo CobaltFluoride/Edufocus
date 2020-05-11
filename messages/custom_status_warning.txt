@@ -1,0 +1,9 @@
+**__Custom Status Notice__**
+
+Hey there! If you're seeing this message, your status is not appropriate for a school environment. As soon as it's changed to something clean, or removed, you will automatically regain access to the rest of the server. Don't worry, no further action will be taken, and you can stay here as long as you want. Just change your status to get back in.
+
+If you believe this is in error, please contact someone with the appropriate permissions to correct the issue. You can also create an issue on GitHub! 
+
+Github Issues Page: <https://github.com/CobaltFluoride/Edufocus/issues>
+
+This is the default notice text, change it in messages/custom_status_warning.txt
