@@ -1,0 +1,9 @@
+**__Nickname or Username Notice__**
+
+Hey there! Your username or nickname appears to be inappropriate for this server's setting. Please change it in order to regain access to the rest of the server. Don't worry, no further action will be taken, and you can stay here as long as you want.
+
+If you believe this is in error, please contact someone with the appropriate permissions to correct the issue. You can also create an issue on GitHub! 
+
+Github Issues Page: <https://github.com/CobaltFluoride/Edufocus/issues>
+
+This is the default notice text, change it in messages/username_warning.txt
